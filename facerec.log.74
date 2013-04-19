@@ -1,0 +1,24 @@
+Apr 18, 2013 10:55:42 PM com.pixel.face.FaceRec processCache
+INFO: folder contents changed
+Apr 18, 2013 10:55:42 PM com.pixel.face.FaceRec createEigenFaceImages
+INFO: creating eigenfaces
+Apr 18, 2013 10:55:42 PM com.pixel.face.FaceRec createEigenFaceImages
+INFO: created eigenfaces.
+Apr 18, 2013 10:55:42 PM com.pixel.face.FaceRec writeCache
+INFO: wrote cache
+Apr 18, 2013 10:55:42 PM com.pixel.face.FaceRec reconstructFaces
+INFO: reconstruction over
+Apr 18, 2013 10:55:45 PM com.pixel.face.FaceRec reconstructFaces
+INFO: reconstruction over
+Apr 18, 2013 10:55:47 PM com.pixel.face.FaceRec reconstructFaces
+INFO: reconstruction over
+Apr 18, 2013 10:55:48 PM com.pixel.face.FaceRec reconstructFaces
+INFO: reconstruction over
+Apr 18, 2013 10:55:51 PM com.pixel.face.FaceRec reconstructFaces
+INFO: reconstruction over
+Apr 18, 2013 10:55:52 PM com.pixel.face.FaceRec reconstructFaces
+INFO: reconstruction over
+Apr 18, 2013 10:55:53 PM com.pixel.face.FaceRec reconstructFaces
+INFO: reconstruction over
+Apr 18, 2013 10:55:54 PM com.pixel.face.FaceRec reconstructFaces
+INFO: reconstruction over
